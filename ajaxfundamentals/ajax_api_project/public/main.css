@@ -1,0 +1,17 @@
+.panel {
+	opacity: 0.3;
+	border-radius: 20px;
+}
+.row {
+	float: right;
+}
+.btn {
+	border-radius: 20px;
+	opacity: 0.5;
+}
+iframe {
+	float: left;
+}
+p {
+	padding: 5px;
+}
